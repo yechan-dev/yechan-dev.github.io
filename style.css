@@ -1,0 +1,55 @@
+.top-container {
+    margin-top: 20px;
+    margin-left: 40px;
+}
+
+.mid-container {
+    margin-left: 40px;
+}
+
+#top-name {
+    font-size: 96px;
+    font-weight: 500;
+}
+
+#who-text {
+    font-size: 64px;
+    font-weight: 400;
+    margin: 0;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+#who-ex {
+    font-size: 40px;
+    margin: 0;
+    padding: 0;
+}
+
+#experience-text {
+    font-size: 64px;
+    font-weight: 400;
+    margin: 0;
+    padding-top: 50px;
+    padding-bottom: 10px;
+}
+
+#experience-ex {
+    font-size: 40px;
+    margin: 0;
+    padding: 0;
+}
+
+#project-text {
+    font-size: 64px;
+    font-weight: 400;
+    margin: 0;
+    padding-top: 50px;
+    padding-bottom: 10px;
+}
+
+#project-ex {
+    font-size: 40px;
+    margin: 0;
+    padding: 0;
+}
